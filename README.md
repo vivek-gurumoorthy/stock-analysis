@@ -4,7 +4,9 @@
 
 ## Results: 
 Comparison of Previous vs. Refactored (2018)
+
 ![Old Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Old_2018.png)
+
 ![New Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Refactored_2018.png)
 
 ## Summary: 
@@ -15,5 +17,6 @@ Comparison of Previous vs. Refactored (2018)
   b. **Disadvantages** - In refactoring, one has to avoid hard-coding certain values in order for this code to be readily applicable to more settings and situations. In doing so, however, writing the code itself can become more abstract and error-prone. Instead of referring to objects of which the values are readily known and viewable, one writing the code must be able to envision how the code is working more theoretically which may be challenging.  
 
 2. How do these pros and cons apply to refactoring the original VBA script?
+
 
 
