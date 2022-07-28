@@ -2,9 +2,7 @@
 
 ## Overview of Project: 
 ### Purpose
-
-### Background
-
+- This Excel macro aims to take an entire dataset of stocks and list the ticker names, total daily volumes, and yearly returns of these stocks. 
 
 ## Results: 
 Comparison of Stock Performance Between 2017 and 2018
