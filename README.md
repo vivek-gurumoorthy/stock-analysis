@@ -9,6 +9,10 @@ Comparison of Stock Performance Between 2017 and 2018
 
 ![2018](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.58%20PM.png)
 
+2017            |  2018
+:-------------------------:|:-------------------------:
+![](https://...Dark.png](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.21%20PM.png)  |  ![](https://...Ocean.png](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.58%20PM.png)
+
 Comparison of Previous vs. Refactored
 
 ![Old Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Old_2018.png)
