@@ -3,6 +3,9 @@
 ## Overview of Project: 
 
 ## Results: 
+Comparison of Previous vs. Refactored (2018)
+![Old Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Old_2018.png)
+![New Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Refactored_2018.png)
 
 ## Summary: 
 1. What are the advantages or disadvantages of refactoring code?
@@ -13,6 +16,4 @@
 
 2. How do these pros and cons apply to refactoring the original VBA script?
 
-Comparison of Previous vs. Refactored (2018)
-![Old Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Old_2018.png)
-![New Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Refactored_2018.png)
+
