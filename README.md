@@ -18,7 +18,7 @@ Comparison of Previous vs. Refactored Script Performance
 Old Script            |  Refactored Script
 :-------------------------:|:-------------------------:
 ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Old_2018.png)  |  ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Refactored_2018.png)
-- The refactored script yields the same output as the original script, but reaches this output much more efficiently. This is shown by the difference in the time displayed in the Excel message box between the previous version and the new and refactored one. While the older version of the script takes nearly an entire second to reach the output, the refactored version reaches this same result more than four times faster. 
+- The refactored script yields the same output as the original script, but reaches this output much more efficiently. This is shown by the difference in the time displayed in the Excel message box between the previous version and the new and refactored one. While the older version of the script takes nearly an entire second to reach the output, the refactored version reaches this same result more than four times faster. Code that can reach a desired end result at a faster rate is much more desirable and easily usable than code that takes significant time to perform a task, and for this reason the refactored code is preferable.
 
 ## Summary: 
 1. What are the advantages or disadvantages of refactoring code?
