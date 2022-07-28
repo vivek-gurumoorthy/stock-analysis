@@ -1,6 +1,10 @@
 # Analyzing Stocks
 
 ## Overview of Project: 
+### Purpose
+
+### Background
+
 
 ## Results: 
 Comparison of Stock Performance Between 2017 and 2018
