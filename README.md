@@ -1,6 +1,6 @@
 # Analyzing Stocks
 
-## Overview of Project: Explain the purpose of this analysis.
+## Overview of Project: 
 
 ## Results: 
 
