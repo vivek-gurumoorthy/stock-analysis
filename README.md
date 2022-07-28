@@ -9,7 +9,7 @@ Comparison of Stock Performance Between 2017 and 2018
 :-------------------------:|:-------------------------:
 ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.21%20PM.png)  |  ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.58%20PM.png)
 - Evidently, the selected stocks as a whole performed significantly worse in 2018 than they did in 2017. This is made clear by the conditional formatting used to highlight positive return values in green and negative return values in red.
-- Only two of the twelve selected stocks demonstrated consecutive years with positive return values. These stocks are 
+- Only two of the twelve selected stocks demonstrated consecutive years with positive return values. These stocks are ENPH (129.5% in 2017, 81.9% in 2018) and RUN (5.0% in 2017, 84.0% in 2018).
 
 Comparison of Previous vs. Refactored Script Performance
 
