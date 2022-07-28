@@ -9,14 +9,12 @@ Comparison of Stock Performance Between 2017 and 2018
 :-------------------------:|:-------------------------:
 ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.21%20PM.png)  |  ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.58%20PM.png)
 
-Comparison of Previous vs. Refactored
+Comparison of Previous vs. Refactored Script Performance
 
-![Old Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Old_2018.png)
-
-![New Code](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Refactored_2018.png)
 Old Script            |  Refactored Script
 :-------------------------:|:-------------------------:
 ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Old_2018.png)  |  ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Refactored_2018.png)
+
 ## Summary: 
 1. What are the advantages or disadvantages of refactoring code?
 
